@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uninorte</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rubrica">Rubrica</string>
+    <string name="title_activity_cursos">Cursos</string>
+    <string name="title_activity_estudiante">Estudiante</string>
+</resources>
