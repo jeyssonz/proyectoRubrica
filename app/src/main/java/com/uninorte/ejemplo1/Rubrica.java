@@ -35,7 +35,7 @@ public class Rubrica extends AppCompatActivity {
         count=1;
         Sc = (ScrollView) findViewById(R.id.Scro);
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        cli = MediaPlayer.create(this, R.raw.clik1);
+        cli = MediaPlayer.create(this, R.raw.clik1); //dddd
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
